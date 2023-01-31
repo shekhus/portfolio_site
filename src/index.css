@@ -57,7 +57,7 @@ code {
 }
 
 .header img {
-  max-width: 300px;
+  max-width: 200px;
   height: auto;
 
   margin: 20px auto;
@@ -66,7 +66,7 @@ code {
 }
 
 .header__content {
-  width: 400px;
+  width: 500px;
   margin: 0 auto;
 }
 
@@ -87,13 +87,13 @@ code {
 
 .about h2 {
   font-size: 42px;
-  margin: 25px auto;
+  margin: 40px auto;
 }
 
 .about p {
   font-size: 18px;
   line-height: 130%;
-  max-width: 75ch;
+  max-width: 90ch;
 }
 
 /* ------------------------------------------------------ */
@@ -115,7 +115,7 @@ code {
   justify-content: flex-start;
   align-items: center;
   flex-wrap: wrap;
-  gap: 20px;
+  gap: 40px;
 }
 
 .projects__card {
