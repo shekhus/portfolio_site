@@ -5,7 +5,7 @@ const Header = () => {
     return (
         <section className='header'>
             <img src={profile} alt="Chandrashekhar Satav" />
-
+    
             <div className='header__content'>
                 <h1>Hi, I am 
                 Chandrashekhar Satav</h1>
